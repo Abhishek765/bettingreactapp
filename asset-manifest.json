@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bettingreactapp/static/css/main.59e0c7ef.chunk.css",
+    "main.js": "/bettingreactapp/static/js/main.93ab34a7.chunk.js",
+    "main.js.map": "/bettingreactapp/static/js/main.93ab34a7.chunk.js.map",
+    "runtime-main.js": "/bettingreactapp/static/js/runtime-main.d4aec9c3.js",
+    "runtime-main.js.map": "/bettingreactapp/static/js/runtime-main.d4aec9c3.js.map",
+    "static/js/2.d97822b7.chunk.js": "/bettingreactapp/static/js/2.d97822b7.chunk.js",
+    "static/js/2.d97822b7.chunk.js.map": "/bettingreactapp/static/js/2.d97822b7.chunk.js.map",
+    "static/js/3.139b51b9.chunk.js": "/bettingreactapp/static/js/3.139b51b9.chunk.js",
+    "static/js/3.139b51b9.chunk.js.map": "/bettingreactapp/static/js/3.139b51b9.chunk.js.map",
+    "index.html": "/bettingreactapp/index.html",
+    "static/css/main.59e0c7ef.chunk.css.map": "/bettingreactapp/static/css/main.59e0c7ef.chunk.css.map",
+    "static/js/2.d97822b7.chunk.js.LICENSE.txt": "/bettingreactapp/static/js/2.d97822b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4aec9c3.js",
+    "static/js/2.d97822b7.chunk.js",
+    "static/css/main.59e0c7ef.chunk.css",
+    "static/js/main.93ab34a7.chunk.js"
+  ]
+}
