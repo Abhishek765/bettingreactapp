@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.second_users{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(188 181 196);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.btn_second{
+ background-color: #4c2dbb;
+  color: white;
+  letter-spacing: 1px;
+  width: 15%;
+  margin: 36px;
+  padding: 10px;
+  font-family: "Roboto", sans-serif;
+  border-radius: 5px;
+  border: 2px solid #4c2dbb;
+  outline: none;
+  cursor: pointer;
+}
+.second_heading{
+    color: #4c2dbb;
+    font-size: 32px;
+    letter-spacing: 2px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.users_list{
+    display: flex;
+  flex-wrap: wrap;
+}
+.user_card{
+  
+    flex: 1 0 16%; /* explanation below */
+  margin: 5px;
+  height: auto;
+}
+
+.user_img{
+    width: inherit;
+}

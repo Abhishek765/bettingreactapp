@@ -1,0 +1,14 @@
+.list_page{
+    background-color: #eef3ee;
+    display: flex;
+    flex-direction: column;
+    flex: 0.75;
+    padding:30px;
+} 
+.heading {
+    color: #4c2dbb;
+    font-size:20px;
+    letter-spacing: 1px;
+    font-family: 'Roboto', sans-serif;
+
+  }

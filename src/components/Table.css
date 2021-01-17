@@ -1,0 +1,30 @@
+
+
+.main_menu h1{
+    color: #b35353;
+}
+
+.user_table{
+    align-items: center;
+    
+}
+.user_table .MuiTableCell-root{
+    text-align: center; 
+    padding-top: 5px; 
+}
+.head_row .MuiTableCell-root{
+    text-align: center; 
+    background-color:rgb(119, 107, 228);  
+    color: white; 
+}
+
+.user_name ,.player_name{
+    text-align: left!important;    
+}
+.MuiAvatar-square{
+    margin:auto;
+}
+.search{
+    padding:10px;
+    display: block;
+}
