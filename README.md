@@ -1,7 +1,7 @@
 # Betting React App
 
 ## Demo Link
- [See the Demo here](https://abhishek765.github.io/reactbettingapp/)
+ [See the Demo here](https://abhishek765.github.io/bettingreactapp/)
  
 # Funtionality
 <h2>1. Front-End Build in React</h2>
@@ -20,4 +20,4 @@
  
  ## Demo Images
 
-<img src="https://github.com/Abhishek765/reactbettingapp/blob/master/images/demo1.png" >&#160; &#160;&#160;<img src="https://github.com/Abhishek765/reactbettingapp/blob/master/images/demo2.png" >&#160; &#160;&#160;<img src="https://github.com/Abhishek765/reactbettingapp/blob/master/images/demo3.png" >&#160; &#160;&#160;<img src="https://github.com/Abhishek765/reactbettingapp/blob/master/images/demo4.png" >&#160; &#160;&#160;<img src="https://github.com/Abhishek765/reactbettingapp/blob/master/images/demo5.png" >&#160; &#160;&#160;
+<img src="https://github.com/Abhishek765/bettingreactapp/blob/master/images/demo1.png" >&#160; &#160;&#160;<img src="https://github.com/Abhishek765/bettingreactapp/blob/master/images/demo2.png" >&#160; &#160;&#160;<img src="https://github.com/Abhishek765/bettingreactapp/blob/master/images/demo3.png" >&#160; &#160;&#160;<img src="https://github.com/Abhishek765/bettingreactapp/blob/master/images/demo4.png" >&#160; &#160;&#160;<img src="https://github.com/Abhishek765/bettingreactapp/blob/master/images/demo5.png" >&#160; &#160;&#160;
