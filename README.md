@@ -3,10 +3,10 @@
 ## Demo Link
  [See the Demo here](https://abhishek765.github.io/bettingreactapp/)
  
-# Funtionality
+# Functionalities
 <h2>1. Front-End Build in React</h2>
 <h2>2. Fetches the User's data in realtime from an API</h2>
-<h2>3. User can select upto 9 members for a round</h2>
+<h2>3. User can select upto 9 members for a single round</h2>
 <h2>4. Selected users are shown in the Left side Panel</h2>
 <h2>5. Filter the User based on Names(Searching)</h2>
 <h2>6. Sort the Table data according to-> Names, Bets and Price</h2>
